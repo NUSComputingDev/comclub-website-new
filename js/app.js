@@ -6,86 +6,86 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 "name": "Javian Ng",
                 "role": "President",
-                "url": "https://www.linkedin.com/in/matthew-simon-tan-b2987423b/"
+                "url": ""
             },
             {
                 "name": "Sean Kevin Dias",
                 "role": "General Secretary",
-                "url": "https://www.linkedin.com/in/summerthia/"
+                "url": ""
             },
             {
                 "name": "Jamie Ho",
                 "role": "Deputy General Secretary",
-                "url": "https://www.linkedin.com/in/celinechungyy"
+                "url": ""
             },
             {
                 "name": "Rayson Yeap",
                 "role": "Tech Lead",
-                "url": "https://www.linkedin.com/in/derricklibofeng/"
+                "url": ""
             },
             {
                 "name": "Lee Yong Ning",
                 "role": "Deputy Tech Lead",
-                "url": "https://www.linkedin.com/in/chen-shun-a99631177/"
+                "url": ""
             },
             {
                 "name": "Mervyn Seah",
                 "role": "Finance Secretary",
-                "url": "https://www.linkedin.com/in/triciagxh/"
+                "url": ""
             },
             {
                 "name": "Vivien He",
                 "role": "Deputy Finance Secretary",
-                "url": "https://www.linkedin.com/in/merrick-neo-b66bb4201/"
+                "url": ""
             }
         ],
         "External Relations": [
             {
                 "name": "Koo Jay-Lynn",
                 "role": "Vice President",
-                "url": "https://www.linkedin.com/in/aditya-jirafe-372a42248"
+                "url": ""
             },
             {
                 "name": "Wang Yu Qing",
                 "role": "Director, Publicity",
-                "url": "https://www.linkedin.com/in/linglingg/"
+                "url": ""
             },
             {
                 "name": "Althea Tan",
                 "role": "Deputy Director, Publicity (Content & Graphics)",
-                "url": "https://www.linkedin.com/in/wynn-l-360035226/"
+                "url": ""
             },
             {
                 "name": "Davian Kho",
                 "role": "Deputy Director, Publicity (Photos & Video)",
-                "url": "https://www.linkedin.com/in/javianngzh/"
+                "url": ""
             },
             {
                 "name": "Ophelia Teo",
                 "role": "Director, Marketing",
-                "url": "https://www.linkedin.com/in/fion-lim-66571324a/"
+                "url": ""
             },
             {
                 "name": "Khoo Pyn Zhern",
                 "role": "Deputy Director, Marketing (Merchandise)",
-                "url": "https://www.linkedin.com/in/varsharamkumar"
+                "url": ""
             },
             {
                 "name": "Natasha Koh",
                 "role": "Deputy Director, Marketing (Sponsorship)",
-                "url": "https://www.linkedin.com/in/andre-heng/"
+                "url": ""
             }
         ],
         "Internal Relations": [
             {
                 "name": "Reina Tng",
                 "role": "Vice President",
-                "url": "https://www.linkedin.com/in/ivan-chin-86a590189/"
+                "url": ""
             },
             {
                 "name": "Joshua Lek",
                 "role": "Director, Welfare",
-                "url": "https://www.linkedin.com/in/mervseah/"
+                "url": ""
             },
             {
                 "name": "Tricia Ang",
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 "name": "Natasha Sanghar",
                 "role": "Director, Sports",
-                "url": "https://www.linkedin.com/in/vivienherq/"
+                "url": ""
             },
             {
                 "name": "Chloe Ong",
@@ -107,17 +107,17 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 "name": "Ng Le Xuan",
                 "role": "Vice President",
-                "url": "https://www.linkedin.com/in/jodytng/"
+                "url": ""
             },
             {
                 "name": "Emily Tan",
                 "role": "Director, Academic Liaison",
-                "url": "https://www.linkedin.com/in/bryan-ong-51735a203"
+                "url": ""
             },
             {
                 "name": "Teo Hong Rui",
                 "role": "Deputy Director, Academic Liaison",
-                "url": "https://www.linkedin.com/in/tabriz-pahlavi-4077b7243"
+                "url": ""
             },
             {
                 "name": "Martin Ng",
@@ -127,34 +127,34 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 "name": "Kong Shi Ting",
                 "role": "Director, Rag & Flag",
-                "url": "https://www.linkedin.com/in/kenneth-seet-b91015233/"
+                "url": ""
             }
         ],
         "Student Life": [
             {
                 "name": "Nathan Loo",
                 "role": "Vice President",
-                "url": "https://www.linkedin.com/in/pearlyn-liu-34b0761b9/"
+                "url": ""
             },
             {
                 "name": "Raeeda",
                 "role": "Director, Freshman Orientation Projects",
-                "url": "https://www.linkedin.com/in/edric-khiew-66442490/"
+                "url": ""
             },
             {
                 "name": "Timothy Soon",
                 "role": "Deputy Director, Freshman Orientation Projects",
-                "url": "https://www.linkedin.com/in/dionne-leow-03195710b/"
+                "url": ""
             },
             {
                 "name": "Wanjari Kimaya",
                 "role": "Deputy Director, Freshman Orientation Projects",
-                "url": "https://www.linkedin.com/in/jaspertzx"
+                "url": ""
             },
             {
                 "name": "Toh Yi Hui",
                 "role": "Director, Student Engagement",
-                "url": "https://www.linkedin.com/in/DerenC"
+                "url": ""
             },
             {
                 "name": "Ivan Yang",
